@@ -4,6 +4,7 @@ def max_value(numbers):
     """
     # This is Solhee's comment!
     print("hello")
+    print("This is to create another conflict. (-- Solhee)")
 
 #### more conflict
 if __name__ == "__main__":
